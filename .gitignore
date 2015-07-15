@@ -1,0 +1,9 @@
+res
+obj
+*.md~
+*.asm~
+*.swo
+*.swp
+*.gitignore~
+*.swn
+*.exe
